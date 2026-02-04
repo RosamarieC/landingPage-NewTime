@@ -5,6 +5,7 @@ The project focuses on clean UI structure, responsive design, and user-focused l
 
 ## Live Demo
 https://rosamariec.github.io/landingPage-NewTime/
+https://rosamariec.github.io/landingPage-NewTime/
 
 ## Features
 - Fully responsive design
