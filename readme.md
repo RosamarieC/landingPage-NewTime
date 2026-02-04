@@ -3,6 +3,8 @@
 A modern, responsive landing page built using HTML and CSS.  
 The project focuses on clean UI structure, responsive design, and user-focused layout principles.
 
+## Live Demo
+https://rosamariec.github.io/landingPage-NewTime/
 
 ## Features
 - Fully responsive design
